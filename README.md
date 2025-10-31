@@ -7,6 +7,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Recent UI work is tracked in `docs/CHANGES_AND_TODOS.md`.
 - Mobile header uses a hamburger with full‑screen gradient menu; hero is responsive with desktop/mobile imagery.
 
+## Git LFS
+
+This repository uses Git Large File Storage (LFS) for all images (`*.png`, `*.jpg`, `*.jpeg`, `*.svg`). This keeps the Git history small and speeds up clones.
+
+- Install: https://git-lfs.com and run `git lfs install` once on your machine.
+- After cloning: run `git lfs pull` if images appear as tiny pointer files.
+- Committing: no special steps — images are auto‑tracked via `.gitattributes`.
+- Note: LFS has storage/bandwidth quotas on GitHub; prefer optimized assets.
+
 
 ## Available Scripts
 

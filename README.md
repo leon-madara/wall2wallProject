@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project status
+
+- Recent UI work is tracked in `docs/CHANGES_AND_TODOS.md`.
+- Mobile header uses a hamburger with full‑screen gradient menu; hero is responsive with desktop/mobile imagery.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
